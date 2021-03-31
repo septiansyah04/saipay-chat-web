@@ -1,0 +1,21 @@
+{
+  "name": "Saipay",
+  "displayName": "Saipay",
+  "senderID": "594331487245",
+  "connectyCubeConfig": [
+    {
+      "appId": 4066,
+      "authKey": "NVbpyZZRvcyHOKw",
+      "authSecret": "bxz92xtmLHUOEus"
+    },
+    { "chat": {
+      "streamManagement": {
+        "enable": true
+      }
+    },
+      "debug": {
+        "mode": 1
+      } 
+    }
+  ]
+}
